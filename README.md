@@ -101,14 +101,21 @@ Paste this after the installation
 ```
 ---
 
-<p align="Left">
-    <a align="center">
-  <a aria-label="WEBSITE" href="https://eliteprotech.zone.id/" target="_blank">
-    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
-</a>
-<a aria-label="OTHER REPO" href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank">
-    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="left">  
+  <!-- Website -->
+  <a href="https://eliteprotech.zone.id/" target="_blank" aria-label="ELITEPRO Website">  
+    <img alt="ELITEPRO Website" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=internetexplorer&logoColor=white" />  
+  </a>  
+
+  <!-- Other Repo -->
+  <a href="https://github.com/EliteProTech/Elite-Pro-V2" target="_blank" aria-label="Other Repo">  
+    <img alt="Other Repo" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />  
+  </a>  
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@eliteprotechs" target="_blank" aria-label="Subscribe on YouTube">  
+    <img alt="YouTube Channel" src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />  
+  </a>  
 </p>
 
  --- 
