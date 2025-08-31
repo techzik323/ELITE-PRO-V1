@@ -16,7 +16,7 @@
   "author": "Chinedu-MD",
   "license": "MIT",
   "dependencies": {
-    "baileys": "^6.7.18",
+    "baileys": "^6.7.19",
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^5.1.0",
     "@hapi/boom": "^10.0.1",
@@ -31,7 +31,7 @@
     "fs-extra": "^11.1.1",
     "libphonenumber-js": "^1.12.8",
     "human-readable": "^0.2.1",
-    "jimp": "^0.16.1",
+    "jimp": "^1.6.0",
     "jsdom": "^22.1.0",
     "moment-timezone": "^0.5.43",
     "node-fetch": "^2.6.11",
