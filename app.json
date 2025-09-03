@@ -16,7 +16,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number in international format (without +).",
-      "value": "2348109263390"
+      "value": "2347047504860"
     },
     "OWNER_NAME": {
       "description": "Owner's display name.",
@@ -52,7 +52,7 @@
     },
     "AUTO_SW_VIEW": {
       "description": "Auto-view WhatsApp statuses.",
-      "value": "true"
+      "value": "false"
     },
     "WELCOME": {
       "description": "Enable group welcome message.",
