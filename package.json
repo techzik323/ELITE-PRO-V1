@@ -16,7 +16,7 @@
   "author": "Chinedu-MD",
   "license": "MIT",
   "dependencies": {
-    "baileys": "^6.7.20",
+    "baileys": "^7.0.0-rc.6",
     "@adiwajshing/keyed-db": "^0.2.4",
     "express": "^5.1.0",
     "@hapi/boom": "^10.0.1",

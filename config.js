@@ -42,15 +42,15 @@ global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcm
 
 // Reply messages
 global.mess = {
-    done: '[✔] Task executed successfully.',
-    prem: '[403] Access denied. Premium user required.',
-    admin: '[401] Admin privileges required.',
-    botAdmin: '[401] Bot must be an admin to run this command.',
-    owner: '[403] Command restricted to bot owner.',
-    group: '[400] Command available only in group chats.',
-    private: '[400] Command available only in private chats.',
-    wait: '[⏳] Processing... Please wait.',
-    error: '[500] Unexpected error occurred.',
+    done: '✅ Task completed successfully!',
+    prem: '⚠️ Access denied. This feature is for premium users only.',
+    admin: '⚠️ Admin privileges required to perform this action.',
+    botAdmin: '⚠️ I need to be an admin in this chat to execute this command.',
+    owner: '⛔ Command restricted to the bot owner.',
+    group: 'ℹ️ This command can only be used in group chats.',
+    private: 'ℹ️ This command can only be used in private chats.',
+    wait: '⏳ Processing your request... Please wait a moment.',
+    error: '❌ An unexpected error occurred. Please try again later.',
 };
 
 global.thumb = fs.readFileSync('./EliteProMedia/thumb.jpg');
