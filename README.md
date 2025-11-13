@@ -64,7 +64,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 - **Deploy on [Katabump](https://dashboard.katabump.com/auth/login)**
 - **Deploy on [Optiklink](https://optiklink.com/)**
 - **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/EliteProTech/ELITE-PRO-V1)**
-- **Deploy on [EliteProTech Bot-hosting](https://eliteprotech-bot-hosting.zone.id)**
+- **Deploy on [EliteProTech-Bot-hosting](https://eliteprotech-bot-hosting.zone.id)**
 ---
 
 ## FOR TERMUX/SSH/UBUNTU
