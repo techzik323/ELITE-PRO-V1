@@ -13,7 +13,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 <p align="center">
   <a href="https://chat.whatsapp.com/BscdfUpSmJY0OAOWfyPjNs">
-    <img alt=Support weight="10" src="https://eliteprotech-url.zone.id/1761688584883y3qlfd.png"> 
+    <img alt=Support weight="10" src="https://vi-database.vercel.app/img/repo.png"> 
     </p>
 <p align="center"> 
     </p>
@@ -59,11 +59,12 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ---
 
 ## OTHER DEPLOYMENT PLATFORMS
+- **Deploy on [Bot-hosting.net](https://bot-hosting.net/)**
 - **Deploy on [Render](https://render.com)**
 - **Deploy on [Katabump](https://dashboard.katabump.com/auth/login)**
 - **Deploy on [Optiklink](https://optiklink.com/)**
 - **Deploy on [Heroku](https://dashboard.heroku.com/new?template=https://github.com/EliteProTech/ELITE-PRO-V1)**
-- **Deploy on [Bot-hosting.net](https://bot-hosting.net/)**
+- **Deploy on [EliteProTech Bot-hosting](https://eliteprotech-bot-hosting.zone.id)**
 ---
 
 ## FOR TERMUX/SSH/UBUNTU
